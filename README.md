@@ -3,4 +3,4 @@ Metode acak menggunakan PRNG-No-Repeat dengan contoh seperti akun twiter @kontol
 
 *Ampun buat yang punya bot, saya cuma ingin berbagi ilmu.*
 
-Untuk live testnya, bisa di lihat [di sini](https://jsfiddle.net/19pxkgsr/).
+Untuk live testnya, bisa di lihat [di sini](https://jsfiddle.net/19pxkgsr/) dan untuk yang berputar selamanya hingga ajal menjemput bisa di lihat [di sini](https://jsfiddle.net/cod634at/).
